@@ -1,4 +1,4 @@
-@[toc]
+[toc]
 # 1 概述
 Logback是在java社区广泛使用的日志框架之一，它是Log4j的替代品。Logback提供了比Log4j更快的实现，更多可选择的配置，以及归档log文件更大的灵活性。
 # 2 Logback的架构
