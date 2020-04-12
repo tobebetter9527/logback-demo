@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * @author tobebetter9527
- * @description TODO
+ * @description 删掉logback.xml,运行一下代码还是能打印的。
  * @create 2020/04/12 11:19
  */
 public class DefaultConfigExample {
