@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * @author tobebetter9527
- * @description TODO
+ * @description 参数化打印日志
  * @create 2020/04/11 22:07
  */
 @Slf4j
@@ -25,6 +25,4 @@ public class ParameterizedExample {
             log.error("Error dividing {} by {} ", 42, zero, e);
         }
     }
-
-
 }

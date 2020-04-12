@@ -1,0 +1,5 @@
+2384 [main] WARN  com.logback.demo.tests - testsLogger is logged warn = warn
+239  [main] WARN  com.logback.demo.tests - testsLogger is logged warn = warn
+226  [main] WARN  com.logback.demo.tests - testsLogger is logged warn = warn
+226  [main] WARN  com.logback.demo.tests - testsLogger is logged warn = warn
+300  [main] WARN  com.logback.demo.tests - testsLogger is logged warn = warn
